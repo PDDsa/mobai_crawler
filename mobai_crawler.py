@@ -47,7 +47,6 @@ for jindu in frange(zuo,you,step):
             'latitude': weidu,  # 纬度
             'citycode': '029',
             'errMsg': 'getMapCenterLocation:ok',
-            'wxcode':'013DYXZk2bFvQH0KTJ0l29lSZk2DYXZZ'
         }
 
         try:
